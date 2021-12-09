@@ -24,7 +24,7 @@ public class BudgetDialog extends AppCompatDialogFragment{
          View view = inflater.inflate(R.layout.layout_dialog, null);
 
         builder.setView(view)
-                .setTitle("Weekly Budget")
+                .setTitle("Weekly Budget!!!!!!!!!!!")
                 .setNegativeButton("cancel", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
